@@ -1,4 +1,4 @@
-### Hi there 👋
+### The official website for Venturer Finance Club!
 
 <!--
 **stuyventurer/StuyVenturer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
